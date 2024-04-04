@@ -1,4 +1,4 @@
-# Lineapark week4
+# Lineapark (Fully Finished)
 
 🏃‍♀️ **Doing tasks:** _/9
 ⚙️ **Weekly expenses:** $__
